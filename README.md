@@ -32,7 +32,7 @@
 
 1. ### What is React
 
-- React is refer as js framework.
+- React is refer as js library.
 - Created by Facebook.
 - It's a tool of building UI components.
 - It's work as Virtual Dom in memory.
